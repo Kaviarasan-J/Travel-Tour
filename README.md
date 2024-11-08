@@ -84,7 +84,6 @@ For any questions or suggestions, feel free to reach out to me:
 
 - **Email**: iamlearner04@gmail.com
 - **GitHub**: [Kaviarasan-J](https://github.com/Kaviarasan-J)
-- 
 ---
 
 ## 👨‍💻 Author
@@ -92,4 +91,3 @@ For any questions or suggestions, feel free to reach out to me:
 KAVI J
 
 **Thank you for visiting!** 🌍✨
-```
